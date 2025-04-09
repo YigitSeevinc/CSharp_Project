@@ -1,0 +1,10 @@
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\Stok\Stok\bin\Debug\Stok.exe.config
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\Stok\Stok\bin\Debug\Stok.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\Stok\Stok\bin\Debug\Stok.pdb
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\Stok\Stok\obj\Debug\Stok.csproj.AssemblyReference.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\Stok\Stok\obj\Debug\Stok.Form1.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\Stok\Stok\obj\Debug\Stok.Properties.Resources.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\Stok\Stok\obj\Debug\Stok.csproj.GenerateResource.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\Stok\Stok\obj\Debug\Stok.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\Stok\Stok\obj\Debug\Stok.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\Stok\Stok\obj\Debug\Stok.pdb

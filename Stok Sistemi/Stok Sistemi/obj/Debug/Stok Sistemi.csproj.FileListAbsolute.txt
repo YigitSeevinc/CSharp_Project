@@ -1,0 +1,20 @@
+C:\Users\Yiğit Sevinç\source\repos\Stok Sistemi\Stok Sistemi\bin\Debug\Stok Sistemi.exe.config
+C:\Users\Yiğit Sevinç\source\repos\Stok Sistemi\Stok Sistemi\bin\Debug\Stok Sistemi.exe
+C:\Users\Yiğit Sevinç\source\repos\Stok Sistemi\Stok Sistemi\bin\Debug\Stok Sistemi.pdb
+C:\Users\Yiğit Sevinç\source\repos\Stok Sistemi\Stok Sistemi\obj\Debug\Stok Sistemi.csproj.AssemblyReference.cache
+C:\Users\Yiğit Sevinç\source\repos\Stok Sistemi\Stok Sistemi\obj\Debug\Stok_Sistemi.Form1.resources
+C:\Users\Yiğit Sevinç\source\repos\Stok Sistemi\Stok Sistemi\obj\Debug\Stok_Sistemi.Properties.Resources.resources
+C:\Users\Yiğit Sevinç\source\repos\Stok Sistemi\Stok Sistemi\obj\Debug\Stok Sistemi.csproj.GenerateResource.cache
+C:\Users\Yiğit Sevinç\source\repos\Stok Sistemi\Stok Sistemi\obj\Debug\Stok Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sevinç\source\repos\Stok Sistemi\Stok Sistemi\obj\Debug\Stok Sistemi.exe
+C:\Users\Yiğit Sevinç\source\repos\Stok Sistemi\Stok Sistemi\obj\Debug\Stok Sistemi.pdb
+C:\Users\Yiğit Sevinç\Desktop\Stok Sistemi\Stok Sistemi\bin\Debug\Stok Sistemi.exe.config
+C:\Users\Yiğit Sevinç\Desktop\Stok Sistemi\Stok Sistemi\bin\Debug\Stok Sistemi.exe
+C:\Users\Yiğit Sevinç\Desktop\Stok Sistemi\Stok Sistemi\bin\Debug\Stok Sistemi.pdb
+C:\Users\Yiğit Sevinç\Desktop\Stok Sistemi\Stok Sistemi\obj\Debug\Stok Sistemi.csproj.AssemblyReference.cache
+C:\Users\Yiğit Sevinç\Desktop\Stok Sistemi\Stok Sistemi\obj\Debug\Stok_Sistemi.Form1.resources
+C:\Users\Yiğit Sevinç\Desktop\Stok Sistemi\Stok Sistemi\obj\Debug\Stok_Sistemi.Properties.Resources.resources
+C:\Users\Yiğit Sevinç\Desktop\Stok Sistemi\Stok Sistemi\obj\Debug\Stok Sistemi.csproj.GenerateResource.cache
+C:\Users\Yiğit Sevinç\Desktop\Stok Sistemi\Stok Sistemi\obj\Debug\Stok Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sevinç\Desktop\Stok Sistemi\Stok Sistemi\obj\Debug\Stok Sistemi.exe
+C:\Users\Yiğit Sevinç\Desktop\Stok Sistemi\Stok Sistemi\obj\Debug\Stok Sistemi.pdb

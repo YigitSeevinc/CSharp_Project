@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\c#\Kaçan buton\Kaçan buton\bin\Debug\Kaçan buton.exe.config
+C:\Users\pc\Desktop\c#\Kaçan buton\Kaçan buton\bin\Debug\Kaçan buton.exe
+C:\Users\pc\Desktop\c#\Kaçan buton\Kaçan buton\bin\Debug\Kaçan buton.pdb
+C:\Users\pc\Desktop\c#\Kaçan buton\Kaçan buton\obj\Debug\Kaçan buton.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\c#\Kaçan buton\Kaçan buton\obj\Debug\Kaçan_buton.Form1.resources
+C:\Users\pc\Desktop\c#\Kaçan buton\Kaçan buton\obj\Debug\Kaçan_buton.Properties.Resources.resources
+C:\Users\pc\Desktop\c#\Kaçan buton\Kaçan buton\obj\Debug\Kaçan buton.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\c#\Kaçan buton\Kaçan buton\obj\Debug\Kaçan buton.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\c#\Kaçan buton\Kaçan buton\obj\Debug\Kaçan buton.exe
+C:\Users\pc\Desktop\c#\Kaçan buton\Kaçan buton\obj\Debug\Kaçan buton.pdb

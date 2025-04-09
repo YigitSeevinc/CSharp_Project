@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\c#\sınav projesi\sınav projesi\bin\Debug\sınav projesi.exe.config
+C:\Users\pc\Desktop\c#\sınav projesi\sınav projesi\bin\Debug\sınav projesi.exe
+C:\Users\pc\Desktop\c#\sınav projesi\sınav projesi\bin\Debug\sınav projesi.pdb
+C:\Users\pc\Desktop\c#\sınav projesi\sınav projesi\obj\Debug\sınav projesi.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\c#\sınav projesi\sınav projesi\obj\Debug\sınav_projesi.Form1.resources
+C:\Users\pc\Desktop\c#\sınav projesi\sınav projesi\obj\Debug\sınav_projesi.Properties.Resources.resources
+C:\Users\pc\Desktop\c#\sınav projesi\sınav projesi\obj\Debug\sınav projesi.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\c#\sınav projesi\sınav projesi\obj\Debug\sınav projesi.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\c#\sınav projesi\sınav projesi\obj\Debug\sınav projesi.exe
+C:\Users\pc\Desktop\c#\sınav projesi\sınav projesi\obj\Debug\sınav projesi.pdb

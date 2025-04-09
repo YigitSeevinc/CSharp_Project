@@ -1,0 +1,20 @@
+C:\Users\pc\Desktop\c#\sınav1 stok programı\sınav1 stok programı\bin\Debug\sınav1 stok programı.exe.config
+C:\Users\pc\Desktop\c#\sınav1 stok programı\sınav1 stok programı\bin\Debug\sınav1 stok programı.exe
+C:\Users\pc\Desktop\c#\sınav1 stok programı\sınav1 stok programı\bin\Debug\sınav1 stok programı.pdb
+C:\Users\pc\Desktop\c#\sınav1 stok programı\sınav1 stok programı\obj\Debug\sınav1 stok programı.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\c#\sınav1 stok programı\sınav1 stok programı\obj\Debug\sınav1_stok_programı.Form1.resources
+C:\Users\pc\Desktop\c#\sınav1 stok programı\sınav1 stok programı\obj\Debug\sınav1_stok_programı.Properties.Resources.resources
+C:\Users\pc\Desktop\c#\sınav1 stok programı\sınav1 stok programı\obj\Debug\sınav1 stok programı.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\c#\sınav1 stok programı\sınav1 stok programı\obj\Debug\sınav1 stok programı.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\c#\sınav1 stok programı\sınav1 stok programı\obj\Debug\sınav1 stok programı.exe
+C:\Users\pc\Desktop\c#\sınav1 stok programı\sınav1 stok programı\obj\Debug\sınav1 stok programı.pdb
+C:\Users\Yiğit Sevinç\Desktop\sınav1 stok programı\sınav1 stok programı\bin\Debug\sınav1 stok programı.exe.config
+C:\Users\Yiğit Sevinç\Desktop\sınav1 stok programı\sınav1 stok programı\bin\Debug\sınav1 stok programı.exe
+C:\Users\Yiğit Sevinç\Desktop\sınav1 stok programı\sınav1 stok programı\bin\Debug\sınav1 stok programı.pdb
+C:\Users\Yiğit Sevinç\Desktop\sınav1 stok programı\sınav1 stok programı\obj\Debug\sınav1 stok programı.csproj.AssemblyReference.cache
+C:\Users\Yiğit Sevinç\Desktop\sınav1 stok programı\sınav1 stok programı\obj\Debug\sınav1_stok_programı.Form1.resources
+C:\Users\Yiğit Sevinç\Desktop\sınav1 stok programı\sınav1 stok programı\obj\Debug\sınav1_stok_programı.Properties.Resources.resources
+C:\Users\Yiğit Sevinç\Desktop\sınav1 stok programı\sınav1 stok programı\obj\Debug\sınav1 stok programı.csproj.GenerateResource.cache
+C:\Users\Yiğit Sevinç\Desktop\sınav1 stok programı\sınav1 stok programı\obj\Debug\sınav1 stok programı.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sevinç\Desktop\sınav1 stok programı\sınav1 stok programı\obj\Debug\sınav1 stok programı.exe
+C:\Users\Yiğit Sevinç\Desktop\sınav1 stok programı\sınav1 stok programı\obj\Debug\sınav1 stok programı.pdb

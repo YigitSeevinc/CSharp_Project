@@ -1,0 +1,10 @@
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\belge işlemeleri\belge işlemeleri\bin\Debug\belge işlemeleri.exe.config
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\belge işlemeleri\belge işlemeleri\bin\Debug\belge işlemeleri.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\belge işlemeleri\belge işlemeleri\bin\Debug\belge işlemeleri.pdb
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\belge işlemeleri\belge işlemeleri\obj\Debug\belge işlemeleri.csproj.AssemblyReference.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\belge işlemeleri\belge işlemeleri\obj\Debug\belge_işlemeleri.Form1.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\belge işlemeleri\belge işlemeleri\obj\Debug\belge_işlemeleri.Properties.Resources.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\belge işlemeleri\belge işlemeleri\obj\Debug\belge işlemeleri.csproj.GenerateResource.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\belge işlemeleri\belge işlemeleri\obj\Debug\belge işlemeleri.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\belge işlemeleri\belge işlemeleri\obj\Debug\belge işlemeleri.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\belge işlemeleri\belge işlemeleri\obj\Debug\belge işlemeleri.pdb

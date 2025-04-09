@@ -1,0 +1,16 @@
+C:\Users\pc\Desktop\c#\market programı\market programı\bin\Debug\net6.0-windows\market programı.exe
+C:\Users\pc\Desktop\c#\market programı\market programı\bin\Debug\net6.0-windows\market programı.deps.json
+C:\Users\pc\Desktop\c#\market programı\market programı\bin\Debug\net6.0-windows\market programı.runtimeconfig.json
+C:\Users\pc\Desktop\c#\market programı\market programı\bin\Debug\net6.0-windows\market programı.dll
+C:\Users\pc\Desktop\c#\market programı\market programı\bin\Debug\net6.0-windows\market programı.pdb
+C:\Users\pc\Desktop\c#\market programı\market programı\obj\Debug\net6.0-windows\market_programı.Form1.resources
+C:\Users\pc\Desktop\c#\market programı\market programı\obj\Debug\net6.0-windows\market programı.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\c#\market programı\market programı\obj\Debug\net6.0-windows\market programı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\c#\market programı\market programı\obj\Debug\net6.0-windows\market programı.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\c#\market programı\market programı\obj\Debug\net6.0-windows\market programı.AssemblyInfo.cs
+C:\Users\pc\Desktop\c#\market programı\market programı\obj\Debug\net6.0-windows\market programı.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\c#\market programı\market programı\obj\Debug\net6.0-windows\market programı.dll
+C:\Users\pc\Desktop\c#\market programı\market programı\obj\Debug\net6.0-windows\refint\market programı.dll
+C:\Users\pc\Desktop\c#\market programı\market programı\obj\Debug\net6.0-windows\market programı.pdb
+C:\Users\pc\Desktop\c#\market programı\market programı\obj\Debug\net6.0-windows\market programı.genruntimeconfig.cache
+C:\Users\pc\Desktop\c#\market programı\market programı\obj\Debug\net6.0-windows\ref\market programı.dll

@@ -1,0 +1,14 @@
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kısayol açma\kısayol açma\bin\Debug\net6.0\kısayol açma.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kısayol açma\kısayol açma\bin\Debug\net6.0\kısayol açma.deps.json
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kısayol açma\kısayol açma\bin\Debug\net6.0\kısayol açma.runtimeconfig.json
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kısayol açma\kısayol açma\bin\Debug\net6.0\kısayol açma.dll
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kısayol açma\kısayol açma\bin\Debug\net6.0\kısayol açma.pdb
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kısayol açma\kısayol açma\obj\Debug\net6.0\kısayol açma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kısayol açma\kısayol açma\obj\Debug\net6.0\kısayol açma.AssemblyInfoInputs.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kısayol açma\kısayol açma\obj\Debug\net6.0\kısayol açma.AssemblyInfo.cs
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kısayol açma\kısayol açma\obj\Debug\net6.0\kısayol açma.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kısayol açma\kısayol açma\obj\Debug\net6.0\kısayol açma.dll
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kısayol açma\kısayol açma\obj\Debug\net6.0\refint\kısayol açma.dll
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kısayol açma\kısayol açma\obj\Debug\net6.0\kısayol açma.pdb
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kısayol açma\kısayol açma\obj\Debug\net6.0\kısayol açma.genruntimeconfig.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kısayol açma\kısayol açma\obj\Debug\net6.0\ref\kısayol açma.dll

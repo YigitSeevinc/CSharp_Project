@@ -1,0 +1,16 @@
+C:\Users\Yiğit Sevinç\source\repos\Hesap Makinesi   v1.0\Hesap Makinesi   v1.0\bin\Debug\net6.0-windows\Hesap Makinesi   v1.0.exe
+C:\Users\Yiğit Sevinç\source\repos\Hesap Makinesi   v1.0\Hesap Makinesi   v1.0\bin\Debug\net6.0-windows\Hesap Makinesi   v1.0.deps.json
+C:\Users\Yiğit Sevinç\source\repos\Hesap Makinesi   v1.0\Hesap Makinesi   v1.0\bin\Debug\net6.0-windows\Hesap Makinesi   v1.0.runtimeconfig.json
+C:\Users\Yiğit Sevinç\source\repos\Hesap Makinesi   v1.0\Hesap Makinesi   v1.0\bin\Debug\net6.0-windows\Hesap Makinesi   v1.0.dll
+C:\Users\Yiğit Sevinç\source\repos\Hesap Makinesi   v1.0\Hesap Makinesi   v1.0\bin\Debug\net6.0-windows\Hesap Makinesi   v1.0.pdb
+C:\Users\Yiğit Sevinç\source\repos\Hesap Makinesi   v1.0\Hesap Makinesi   v1.0\obj\Debug\net6.0-windows\Hesap_Makinesi___v1._0.Form1.resources
+C:\Users\Yiğit Sevinç\source\repos\Hesap Makinesi   v1.0\Hesap Makinesi   v1.0\obj\Debug\net6.0-windows\Hesap Makinesi   v1.0.csproj.GenerateResource.cache
+C:\Users\Yiğit Sevinç\source\repos\Hesap Makinesi   v1.0\Hesap Makinesi   v1.0\obj\Debug\net6.0-windows\Hesap Makinesi   v1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yiğit Sevinç\source\repos\Hesap Makinesi   v1.0\Hesap Makinesi   v1.0\obj\Debug\net6.0-windows\Hesap Makinesi   v1.0.AssemblyInfoInputs.cache
+C:\Users\Yiğit Sevinç\source\repos\Hesap Makinesi   v1.0\Hesap Makinesi   v1.0\obj\Debug\net6.0-windows\Hesap Makinesi   v1.0.AssemblyInfo.cs
+C:\Users\Yiğit Sevinç\source\repos\Hesap Makinesi   v1.0\Hesap Makinesi   v1.0\obj\Debug\net6.0-windows\Hesap Makinesi   v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sevinç\source\repos\Hesap Makinesi   v1.0\Hesap Makinesi   v1.0\obj\Debug\net6.0-windows\Hesap Makinesi   v1.0.dll
+C:\Users\Yiğit Sevinç\source\repos\Hesap Makinesi   v1.0\Hesap Makinesi   v1.0\obj\Debug\net6.0-windows\refint\Hesap Makinesi   v1.0.dll
+C:\Users\Yiğit Sevinç\source\repos\Hesap Makinesi   v1.0\Hesap Makinesi   v1.0\obj\Debug\net6.0-windows\Hesap Makinesi   v1.0.pdb
+C:\Users\Yiğit Sevinç\source\repos\Hesap Makinesi   v1.0\Hesap Makinesi   v1.0\obj\Debug\net6.0-windows\Hesap Makinesi   v1.0.genruntimeconfig.cache
+C:\Users\Yiğit Sevinç\source\repos\Hesap Makinesi   v1.0\Hesap Makinesi   v1.0\obj\Debug\net6.0-windows\ref\Hesap Makinesi   v1.0.dll

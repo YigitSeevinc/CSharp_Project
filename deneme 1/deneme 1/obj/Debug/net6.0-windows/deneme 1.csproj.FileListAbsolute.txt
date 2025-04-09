@@ -1,0 +1,18 @@
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1\deneme 1\bin\Debug\net6.0-windows\deneme 1.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1\deneme 1\bin\Debug\net6.0-windows\deneme 1.deps.json
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1\deneme 1\bin\Debug\net6.0-windows\deneme 1.runtimeconfig.json
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1\deneme 1\bin\Debug\net6.0-windows\deneme 1.dll
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1\deneme 1\bin\Debug\net6.0-windows\deneme 1.pdb
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1\deneme 1\obj\Debug\net6.0-windows\deneme_1.ana_ekran.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1\deneme 1\obj\Debug\net6.0-windows\deneme_1.kayit.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1\deneme 1\obj\Debug\net6.0-windows\deneme_1.oturum.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1\deneme 1\obj\Debug\net6.0-windows\deneme 1.csproj.GenerateResource.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1\deneme 1\obj\Debug\net6.0-windows\deneme 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1\deneme 1\obj\Debug\net6.0-windows\deneme 1.AssemblyInfoInputs.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1\deneme 1\obj\Debug\net6.0-windows\deneme 1.AssemblyInfo.cs
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1\deneme 1\obj\Debug\net6.0-windows\deneme 1.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1\deneme 1\obj\Debug\net6.0-windows\deneme 1.dll
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1\deneme 1\obj\Debug\net6.0-windows\refint\deneme 1.dll
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1\deneme 1\obj\Debug\net6.0-windows\deneme 1.pdb
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1\deneme 1\obj\Debug\net6.0-windows\deneme 1.genruntimeconfig.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1\deneme 1\obj\Debug\net6.0-windows\ref\deneme 1.dll

@@ -1,0 +1,10 @@
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\yüzlük sistem\yüzlük sistem\bin\Debug\yüzlük sistem.exe.config
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\yüzlük sistem\yüzlük sistem\bin\Debug\yüzlük sistem.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\yüzlük sistem\yüzlük sistem\bin\Debug\yüzlük sistem.pdb
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\yüzlük sistem\yüzlük sistem\obj\Debug\yüzlük sistem.csproj.AssemblyReference.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\yüzlük sistem\yüzlük sistem\obj\Debug\yüzlük_sistem.Form1.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\yüzlük sistem\yüzlük sistem\obj\Debug\yüzlük_sistem.Properties.Resources.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\yüzlük sistem\yüzlük sistem\obj\Debug\yüzlük sistem.csproj.GenerateResource.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\yüzlük sistem\yüzlük sistem\obj\Debug\yüzlük sistem.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\yüzlük sistem\yüzlük sistem\obj\Debug\yüzlük sistem.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\yüzlük sistem\yüzlük sistem\obj\Debug\yüzlük sistem.pdb

@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\c#\iki sayı hangiisi büyük\iki sayı hangiisi büyük\bin\Debug\iki sayı hangiisi büyük.exe.config
+C:\Users\pc\Desktop\c#\iki sayı hangiisi büyük\iki sayı hangiisi büyük\bin\Debug\iki sayı hangiisi büyük.exe
+C:\Users\pc\Desktop\c#\iki sayı hangiisi büyük\iki sayı hangiisi büyük\bin\Debug\iki sayı hangiisi büyük.pdb
+C:\Users\pc\Desktop\c#\iki sayı hangiisi büyük\iki sayı hangiisi büyük\obj\Debug\iki sayı hangiisi büyük.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\c#\iki sayı hangiisi büyük\iki sayı hangiisi büyük\obj\Debug\iki sayı hangiisi büyük.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\c#\iki sayı hangiisi büyük\iki sayı hangiisi büyük\obj\Debug\iki sayı hangiisi büyük.exe
+C:\Users\pc\Desktop\c#\iki sayı hangiisi büyük\iki sayı hangiisi büyük\obj\Debug\iki sayı hangiisi büyük.pdb

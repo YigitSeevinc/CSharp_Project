@@ -1,0 +1,10 @@
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\mp3 eşleştirme\mp3 eşleştirme\bin\Debug\mp3 eşleştirme.exe.config
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\mp3 eşleştirme\mp3 eşleştirme\bin\Debug\mp3 eşleştirme.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\mp3 eşleştirme\mp3 eşleştirme\bin\Debug\mp3 eşleştirme.pdb
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\mp3 eşleştirme\mp3 eşleştirme\obj\Debug\mp3 eşleştirme.csproj.AssemblyReference.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\mp3 eşleştirme\mp3 eşleştirme\obj\Debug\mp3_eşleştirme.Form1.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\mp3 eşleştirme\mp3 eşleştirme\obj\Debug\mp3_eşleştirme.Properties.Resources.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\mp3 eşleştirme\mp3 eşleştirme\obj\Debug\mp3 eşleştirme.csproj.GenerateResource.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\mp3 eşleştirme\mp3 eşleştirme\obj\Debug\mp3 eşleştirme.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\mp3 eşleştirme\mp3 eşleştirme\obj\Debug\mp3 eşleştirme.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\mp3 eşleştirme\mp3 eşleştirme\obj\Debug\mp3 eşleştirme.pdb

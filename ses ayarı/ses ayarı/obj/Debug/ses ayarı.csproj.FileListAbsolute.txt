@@ -1,0 +1,10 @@
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\ses ayarı\ses ayarı\bin\Debug\ses ayarı.exe.config
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\ses ayarı\ses ayarı\bin\Debug\ses ayarı.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\ses ayarı\ses ayarı\bin\Debug\ses ayarı.pdb
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\ses ayarı\ses ayarı\obj\Debug\ses ayarı.csproj.AssemblyReference.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\ses ayarı\ses ayarı\obj\Debug\ses_ayarı.Form1.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\ses ayarı\ses ayarı\obj\Debug\ses_ayarı.Properties.Resources.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\ses ayarı\ses ayarı\obj\Debug\ses ayarı.csproj.GenerateResource.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\ses ayarı\ses ayarı\obj\Debug\ses ayarı.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\ses ayarı\ses ayarı\obj\Debug\ses ayarı.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\ses ayarı\ses ayarı\obj\Debug\ses ayarı.pdb

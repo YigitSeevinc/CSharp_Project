@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\c#\4.124.2\4.124.2\bin\Debug\4.124.2.exe.config
+C:\Users\pc\Desktop\c#\4.124.2\4.124.2\bin\Debug\4.124.2.exe
+C:\Users\pc\Desktop\c#\4.124.2\4.124.2\bin\Debug\4.124.2.pdb
+C:\Users\pc\Desktop\c#\4.124.2\4.124.2\obj\Debug\4.124.2.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\c#\4.124.2\4.124.2\obj\Debug\_4._124._2.Form1.resources
+C:\Users\pc\Desktop\c#\4.124.2\4.124.2\obj\Debug\_4._124._2.Properties.Resources.resources
+C:\Users\pc\Desktop\c#\4.124.2\4.124.2\obj\Debug\4.124.2.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\c#\4.124.2\4.124.2\obj\Debug\4.124.2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\c#\4.124.2\4.124.2\obj\Debug\4.124.2.exe
+C:\Users\pc\Desktop\c#\4.124.2\4.124.2\obj\Debug\4.124.2.pdb

@@ -1,0 +1,10 @@
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\çift tek\çift tek\bin\Debug\çift tek.exe.config
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\çift tek\çift tek\bin\Debug\çift tek.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\çift tek\çift tek\bin\Debug\çift tek.pdb
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\çift tek\çift tek\obj\Debug\çift tek.csproj.AssemblyReference.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\çift tek\çift tek\obj\Debug\çift_tek.Form1.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\çift tek\çift tek\obj\Debug\çift_tek.Properties.Resources.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\çift tek\çift tek\obj\Debug\çift tek.csproj.GenerateResource.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\çift tek\çift tek\obj\Debug\çift tek.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\çift tek\çift tek\obj\Debug\çift tek.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\çift tek\çift tek\obj\Debug\çift tek.pdb

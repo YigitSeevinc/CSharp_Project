@@ -1,0 +1,10 @@
+C:\Users\Yiğit Sevinç\source\repos\Oyun 0.1.  v1\Oyun 0.1.  v1\bin\Debug\Oyun_0._1.v1.exe.config
+C:\Users\Yiğit Sevinç\source\repos\Oyun 0.1.  v1\Oyun 0.1.  v1\bin\Debug\Oyun_0._1.v1.exe
+C:\Users\Yiğit Sevinç\source\repos\Oyun 0.1.  v1\Oyun 0.1.  v1\bin\Debug\Oyun_0._1.v1.pdb
+C:\Users\Yiğit Sevinç\source\repos\Oyun 0.1.  v1\Oyun 0.1.  v1\obj\Debug\Oyun 0.1.  v1.csproj.AssemblyReference.cache
+C:\Users\Yiğit Sevinç\source\repos\Oyun 0.1.  v1\Oyun 0.1.  v1\obj\Debug\Oyun_0._1.v1.Form1.resources
+C:\Users\Yiğit Sevinç\source\repos\Oyun 0.1.  v1\Oyun 0.1.  v1\obj\Debug\Oyun_0._1.v1.Properties.Resources.resources
+C:\Users\Yiğit Sevinç\source\repos\Oyun 0.1.  v1\Oyun 0.1.  v1\obj\Debug\Oyun 0.1.  v1.csproj.GenerateResource.cache
+C:\Users\Yiğit Sevinç\source\repos\Oyun 0.1.  v1\Oyun 0.1.  v1\obj\Debug\Oyun 0.1.  v1.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sevinç\source\repos\Oyun 0.1.  v1\Oyun 0.1.  v1\obj\Debug\Oyun_0._1.v1.exe
+C:\Users\Yiğit Sevinç\source\repos\Oyun 0.1.  v1\Oyun 0.1.  v1\obj\Debug\Oyun_0._1.v1.pdb

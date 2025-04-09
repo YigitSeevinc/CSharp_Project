@@ -1,0 +1,11 @@
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\Tahmin oyunu\Tahmin oyunu\bin\Debug\Tahmin oyunu.exe.config
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\Tahmin oyunu\Tahmin oyunu\bin\Debug\Tahmin oyunu.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\Tahmin oyunu\Tahmin oyunu\bin\Debug\Tahmin oyunu.pdb
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\Tahmin oyunu\Tahmin oyunu\obj\Debug\Tahmin oyunu.csproj.AssemblyReference.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\Tahmin oyunu\Tahmin oyunu\obj\Debug\Tahmin_oyunu.Form1.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\Tahmin oyunu\Tahmin oyunu\obj\Debug\Tahmin_oyunu.Form2.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\Tahmin oyunu\Tahmin oyunu\obj\Debug\Tahmin_oyunu.Properties.Resources.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\Tahmin oyunu\Tahmin oyunu\obj\Debug\Tahmin oyunu.csproj.GenerateResource.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\Tahmin oyunu\Tahmin oyunu\obj\Debug\Tahmin oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\Tahmin oyunu\Tahmin oyunu\obj\Debug\Tahmin oyunu.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\Tahmin oyunu\Tahmin oyunu\obj\Debug\Tahmin oyunu.pdb

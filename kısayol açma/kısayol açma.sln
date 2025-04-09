@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kısayol açma", "kısayol açma\kısayol açma.csproj", "{95834D84-0E22-48A0-957E-3961D41E46A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95834D84-0E22-48A0-957E-3961D41E46A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95834D84-0E22-48A0-957E-3961D41E46A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95834D84-0E22-48A0-957E-3961D41E46A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95834D84-0E22-48A0-957E-3961D41E46A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2F36E89-C289-4BE1-93DF-6923975D7E50}
+	EndGlobalSection
+EndGlobal

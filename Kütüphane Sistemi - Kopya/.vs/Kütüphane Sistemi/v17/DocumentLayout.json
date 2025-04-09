@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K\u00FCt\u00FCphane Sistemi - Kopya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75B98F52-2F45-4908-9E69-9320F672E12E}|K\u00FCt\u00FCphane Sistemi\\K\u00FCt\u00FCphane Sistemi.csproj|D:\\K\u00FCt\u00FCphane Sistemi - Kopya\\k\u00FCt\u00FCphane sistemi\\formodunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75B98F52-2F45-4908-9E69-9320F672E12E}|K\u00FCt\u00FCphane Sistemi\\K\u00FCt\u00FCphane Sistemi.csproj|solutionrelative:k\u00FCt\u00FCphane sistemi\\formodunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B98F52-2F45-4908-9E69-9320F672E12E}|K\u00FCt\u00FCphane Sistemi\\K\u00FCt\u00FCphane Sistemi.csproj|D:\\K\u00FCt\u00FCphane Sistemi - Kopya\\k\u00FCt\u00FCphane sistemi\\formogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75B98F52-2F45-4908-9E69-9320F672E12E}|K\u00FCt\u00FCphane Sistemi\\K\u00FCt\u00FCphane Sistemi.csproj|solutionrelative:k\u00FCt\u00FCphane sistemi\\formogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B98F52-2F45-4908-9E69-9320F672E12E}|K\u00FCt\u00FCphane Sistemi\\K\u00FCt\u00FCphane Sistemi.csproj|D:\\K\u00FCt\u00FCphane Sistemi - Kopya\\k\u00FCt\u00FCphane sistemi\\fromkitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75B98F52-2F45-4908-9E69-9320F672E12E}|K\u00FCt\u00FCphane Sistemi\\K\u00FCt\u00FCphane Sistemi.csproj|solutionrelative:k\u00FCt\u00FCphane sistemi\\fromkitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B98F52-2F45-4908-9E69-9320F672E12E}|K\u00FCt\u00FCphane Sistemi\\K\u00FCt\u00FCphane Sistemi.csproj|d:\\k\u00FCt\u00FCphane sistemi - kopya\\k\u00FCt\u00FCphane sistemi\\formogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B98F52-2F45-4908-9E69-9320F672E12E}|K\u00FCt\u00FCphane Sistemi\\K\u00FCt\u00FCphane Sistemi.csproj|solutionrelative:k\u00FCt\u00FCphane sistemi\\formogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B98F52-2F45-4908-9E69-9320F672E12E}|K\u00FCt\u00FCphane Sistemi\\K\u00FCt\u00FCphane Sistemi.csproj|D:\\K\u00FCt\u00FCphane Sistemi - Kopya\\k\u00FCt\u00FCphane sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B98F52-2F45-4908-9E69-9320F672E12E}|K\u00FCt\u00FCphane Sistemi\\K\u00FCt\u00FCphane Sistemi.csproj|solutionrelative:k\u00FCt\u00FCphane sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B98F52-2F45-4908-9E69-9320F672E12E}|K\u00FCt\u00FCphane Sistemi\\K\u00FCt\u00FCphane Sistemi.csproj|D:\\K\u00FCt\u00FCphane Sistemi - Kopya\\k\u00FCt\u00FCphane sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75B98F52-2F45-4908-9E69-9320F672E12E}|K\u00FCt\u00FCphane Sistemi\\K\u00FCt\u00FCphane Sistemi.csproj|solutionrelative:k\u00FCt\u00FCphane sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B98F52-2F45-4908-9E69-9320F672E12E}|K\u00FCt\u00FCphane Sistemi\\K\u00FCt\u00FCphane Sistemi.csproj|D:\\K\u00FCt\u00FCphane Sistemi - Kopya\\k\u00FCt\u00FCphane sistemi\\formtur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75B98F52-2F45-4908-9E69-9320F672E12E}|K\u00FCt\u00FCphane Sistemi\\K\u00FCt\u00FCphane Sistemi.csproj|solutionrelative:k\u00FCt\u00FCphane sistemi\\formtur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\K\u00FCt\u00FCphane Sistemi - Kopya\\K\u00FCt\u00FCphane Sistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane Sistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\Yi\u011Fit SEV\u0130N\u00C7\\Source\\Repos\\K\u00FCt\u00FCphane Sistemi\\K\u00FCt\u00FCphane Sistemi\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:26:14.058Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\K\u00FCt\u00FCphane Sistemi - Kopya\\K\u00FCt\u00FCphane Sistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane Sistemi\\Form1.cs",
+              "ToolTip": "D:\\K\u00FCt\u00FCphane Sistemi - Kopya\\K\u00FCt\u00FCphane Sistemi\\Form1.cs",
+              "RelativeToolTip": "K\u00FCt\u00FCphane Sistemi\\Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:40:20.78Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "formOgrenci.cs",
+              "DocumentMoniker": "D:\\K\u00FCt\u00FCphane Sistemi - Kopya\\K\u00FCt\u00FCphane Sistemi\\formOgrenci.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane Sistemi\\formOgrenci.cs",
+              "ToolTip": "D:\\K\u00FCt\u00FCphane Sistemi - Kopya\\K\u00FCt\u00FCphane Sistemi\\formOgrenci.cs",
+              "RelativeToolTip": "K\u00FCt\u00FCphane Sistemi\\formOgrenci.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:54:24.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "formOgrenci.cs [Design]",
+              "DocumentMoniker": "D:\\K\u00FCt\u00FCphane Sistemi - Kopya\\K\u00FCt\u00FCphane Sistemi\\formOgrenci.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane Sistemi\\formOgrenci.cs",
+              "ToolTip": "D:\\K\u00FCt\u00FCphane Sistemi - Kopya\\K\u00FCt\u00FCphane Sistemi\\formOgrenci.cs [Design]",
+              "RelativeToolTip": "K\u00FCt\u00FCphane Sistemi\\formOgrenci.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:45:03.376Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fromKitap.cs [Design]",
+              "DocumentMoniker": "D:\\K\u00FCt\u00FCphane Sistemi - Kopya\\K\u00FCt\u00FCphane Sistemi\\fromKitap.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane Sistemi\\fromKitap.cs",
+              "ToolTip": "D:\\K\u00FCt\u00FCphane Sistemi - Kopya\\K\u00FCt\u00FCphane Sistemi\\fromKitap.cs [Design]",
+              "RelativeToolTip": "K\u00FCt\u00FCphane Sistemi\\fromKitap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:41:16.868Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "formTur.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\K\u00FCt\u00FCphane Sistemi - Kopya\\K\u00FCt\u00FCphane Sistemi\\formTur.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane Sistemi\\formTur.cs",
+              "ToolTip": "C:\\Users\\Yi\u011Fit SEV\u0130N\u00C7\\Source\\Repos\\K\u00FCt\u00FCphane Sistemi\\K\u00FCt\u00FCphane Sistemi\\formTur.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:45:29.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "formOdunc.cs [Design]",
+              "DocumentMoniker": "D:\\K\u00FCt\u00FCphane Sistemi - Kopya\\K\u00FCt\u00FCphane Sistemi\\formOdunc.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphane Sistemi\\formOdunc.cs",
+              "ToolTip": "D:\\K\u00FCt\u00FCphane Sistemi - Kopya\\K\u00FCt\u00FCphane Sistemi\\formOdunc.cs [Design]",
+              "RelativeToolTip": "K\u00FCt\u00FCphane Sistemi\\formOdunc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:45:47.607Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+D:\616.Yigit\Stok Programı(Y)\Stok Programı(Y)\obj\Debug\Stok Programı(Y).csproj.AssemblyReference.cache
+D:\616.Yigit\Stok Programı(Y)\Stok Programı(Y)\obj\Debug\Stok_Programı_Y_.Form1.resources
+D:\616.Yigit\Stok Programı(Y)\Stok Programı(Y)\obj\Debug\Stok Programı(Y).csproj.GenerateResource.cache
+D:\616.Yigit\Stok Programı(Y)\Stok Programı(Y)\obj\Debug\Stok Programı(Y).exe
+D:\616.Yigit\Stok Programı(Y)\Stok Programı(Y)\obj\Debug\Stok Programı(Y).pdb
+D:\616.Yigit\Stok Programı(Y)\Stok Programı(Y)\obj\Debug\Stok Programı(Y).csproj.SuggestedBindingRedirects.cache
+C:\Users\Yiğit Sevinç\Desktop\Stok Programı(Y)\Stok Programı(Y)\obj\Debug\Stok Programı(Y).csproj.AssemblyReference.cache
+C:\Users\Yiğit Sevinç\Desktop\Stok Programı(Y)\Stok Programı(Y)\obj\Debug\Stok_Programı_Y_.Form1.resources
+C:\Users\Yiğit Sevinç\Desktop\Stok Programı(Y)\Stok Programı(Y)\obj\Debug\Stok Programı(Y).csproj.GenerateResource.cache
+C:\Users\Yiğit Sevinç\Desktop\Stok Programı(Y)\Stok Programı(Y)\obj\Debug\Stok Programı(Y).exe
+C:\Users\Yiğit Sevinç\Desktop\Stok Programı(Y)\Stok Programı(Y)\obj\Debug\Stok Programı(Y).pdb
+D:\Yeni klasör\c# projelerim\Stok Programı(Y)\Stok Programı(Y)\obj\Debug\Stok Programı(Y).csproj.AssemblyReference.cache
+D:\Yeni klasör\c# projelerim\Stok Programı(Y)\Stok Programı(Y)\obj\Debug\Stok Programı(Y).csproj.SuggestedBindingRedirects.cache
+D:\Yeni klasör\c# projelerim\Stok Programı(Y)\Stok Programı(Y)\obj\Debug\Stok_Programı_Y_.Form1.resources
+D:\Yeni klasör\c# projelerim\Stok Programı(Y)\Stok Programı(Y)\obj\Debug\Stok Programı(Y).csproj.GenerateResource.cache
+D:\Yeni klasör\c# projelerim\Stok Programı(Y)\Stok Programı(Y)\obj\Debug\Stok Programı(Y).exe
+D:\Yeni klasör\c# projelerim\Stok Programı(Y)\Stok Programı(Y)\obj\Debug\Stok Programı(Y).pdb

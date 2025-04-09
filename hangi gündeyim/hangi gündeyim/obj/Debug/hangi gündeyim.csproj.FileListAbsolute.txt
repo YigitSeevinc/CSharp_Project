@@ -1,0 +1,10 @@
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\hangi gündeyim\hangi gündeyim\bin\Debug\hangi gündeyim.exe.config
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\hangi gündeyim\hangi gündeyim\bin\Debug\hangi gündeyim.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\hangi gündeyim\hangi gündeyim\bin\Debug\hangi gündeyim.pdb
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\hangi gündeyim\hangi gündeyim\obj\Debug\hangi gündeyim.csproj.AssemblyReference.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\hangi gündeyim\hangi gündeyim\obj\Debug\hangi_gündeyim.Form1.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\hangi gündeyim\hangi gündeyim\obj\Debug\hangi_gündeyim.Properties.Resources.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\hangi gündeyim\hangi gündeyim\obj\Debug\hangi gündeyim.csproj.GenerateResource.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\hangi gündeyim\hangi gündeyim\obj\Debug\hangi gündeyim.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\hangi gündeyim\hangi gündeyim\obj\Debug\hangi gündeyim.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\hangi gündeyim\hangi gündeyim\obj\Debug\hangi gündeyim.pdb

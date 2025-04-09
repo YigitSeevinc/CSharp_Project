@@ -1,0 +1,10 @@
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\SAYI TAHMİN ETME OYUNU\SAYI TAHMİN ETME OYUNU\bin\Debug\SAYI TAHMİN ETME OYUNU.exe.config
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\SAYI TAHMİN ETME OYUNU\SAYI TAHMİN ETME OYUNU\bin\Debug\SAYI TAHMİN ETME OYUNU.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\SAYI TAHMİN ETME OYUNU\SAYI TAHMİN ETME OYUNU\bin\Debug\SAYI TAHMİN ETME OYUNU.pdb
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\SAYI TAHMİN ETME OYUNU\SAYI TAHMİN ETME OYUNU\obj\Debug\SAYI TAHMİN ETME OYUNU.csproj.AssemblyReference.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\SAYI TAHMİN ETME OYUNU\SAYI TAHMİN ETME OYUNU\obj\Debug\SAYI_TAHMİN_ETME_OYUNU.Form1.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\SAYI TAHMİN ETME OYUNU\SAYI TAHMİN ETME OYUNU\obj\Debug\SAYI_TAHMİN_ETME_OYUNU.Properties.Resources.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\SAYI TAHMİN ETME OYUNU\SAYI TAHMİN ETME OYUNU\obj\Debug\SAYI TAHMİN ETME OYUNU.csproj.GenerateResource.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\SAYI TAHMİN ETME OYUNU\SAYI TAHMİN ETME OYUNU\obj\Debug\SAYI TAHMİN ETME OYUNU.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\SAYI TAHMİN ETME OYUNU\SAYI TAHMİN ETME OYUNU\obj\Debug\SAYI TAHMİN ETME OYUNU.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\SAYI TAHMİN ETME OYUNU\SAYI TAHMİN ETME OYUNU\obj\Debug\SAYI TAHMİN ETME OYUNU.pdb

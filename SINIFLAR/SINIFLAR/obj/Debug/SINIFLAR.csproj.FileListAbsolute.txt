@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\c#\SINIFLAR\SINIFLAR\bin\Debug\SINIFLAR.exe.config
+C:\Users\pc\Desktop\c#\SINIFLAR\SINIFLAR\bin\Debug\SINIFLAR.exe
+C:\Users\pc\Desktop\c#\SINIFLAR\SINIFLAR\bin\Debug\SINIFLAR.pdb
+C:\Users\pc\Desktop\c#\SINIFLAR\SINIFLAR\obj\Debug\SINIFLAR.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\c#\SINIFLAR\SINIFLAR\obj\Debug\SINIFLAR.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\c#\SINIFLAR\SINIFLAR\obj\Debug\SINIFLAR.exe
+C:\Users\pc\Desktop\c#\SINIFLAR\SINIFLAR\obj\Debug\SINIFLAR.pdb

@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\c#\dinamik dizi\dinamik dizi\bin\Debug\dinamik dizi.exe.config
+C:\Users\pc\Desktop\c#\dinamik dizi\dinamik dizi\bin\Debug\dinamik dizi.exe
+C:\Users\pc\Desktop\c#\dinamik dizi\dinamik dizi\bin\Debug\dinamik dizi.pdb
+C:\Users\pc\Desktop\c#\dinamik dizi\dinamik dizi\obj\Debug\dinamik dizi.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\c#\dinamik dizi\dinamik dizi\obj\Debug\dinamik dizi.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\c#\dinamik dizi\dinamik dizi\obj\Debug\dinamik dizi.exe
+C:\Users\pc\Desktop\c#\dinamik dizi\dinamik dizi\obj\Debug\dinamik dizi.pdb

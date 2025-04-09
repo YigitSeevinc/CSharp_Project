@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\c#\console tahim oyunu\console tahim oyunu\bin\Debug\console tahim oyunu.exe.config
+C:\Users\pc\Desktop\c#\console tahim oyunu\console tahim oyunu\bin\Debug\console tahim oyunu.exe
+C:\Users\pc\Desktop\c#\console tahim oyunu\console tahim oyunu\bin\Debug\console tahim oyunu.pdb
+C:\Users\pc\Desktop\c#\console tahim oyunu\console tahim oyunu\obj\Debug\console tahim oyunu.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\c#\console tahim oyunu\console tahim oyunu\obj\Debug\console tahim oyunu.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\c#\console tahim oyunu\console tahim oyunu\obj\Debug\console tahim oyunu.exe
+C:\Users\pc\Desktop\c#\console tahim oyunu\console tahim oyunu\obj\Debug\console tahim oyunu.pdb

@@ -1,0 +1,10 @@
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kısayol açtırma\kısayol açtırma\bin\Debug\kısayol açtırma.exe.config
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kısayol açtırma\kısayol açtırma\bin\Debug\kısayol açtırma.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kısayol açtırma\kısayol açtırma\bin\Debug\kısayol açtırma.pdb
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kısayol açtırma\kısayol açtırma\obj\Debug\kısayol açtırma.csproj.AssemblyReference.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kısayol açtırma\kısayol açtırma\obj\Debug\kısayol_açtırma.Form1.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kısayol açtırma\kısayol açtırma\obj\Debug\kısayol_açtırma.Properties.Resources.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kısayol açtırma\kısayol açtırma\obj\Debug\kısayol açtırma.csproj.GenerateResource.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kısayol açtırma\kısayol açtırma\obj\Debug\kısayol açtırma.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kısayol açtırma\kısayol açtırma\obj\Debug\kısayol açtırma.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kısayol açtırma\kısayol açtırma\obj\Debug\kısayol açtırma.pdb

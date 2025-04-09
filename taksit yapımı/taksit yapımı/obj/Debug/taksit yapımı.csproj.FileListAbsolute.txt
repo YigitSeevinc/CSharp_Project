@@ -1,0 +1,10 @@
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\taksit yapımı\taksit yapımı\bin\Debug\taksit yapımı.exe.config
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\taksit yapımı\taksit yapımı\bin\Debug\taksit yapımı.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\taksit yapımı\taksit yapımı\bin\Debug\taksit yapımı.pdb
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\taksit yapımı\taksit yapımı\obj\Debug\taksit yapımı.csproj.AssemblyReference.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\taksit yapımı\taksit yapımı\obj\Debug\taksit_yapımı.Form1.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\taksit yapımı\taksit yapımı\obj\Debug\taksit_yapımı.Properties.Resources.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\taksit yapımı\taksit yapımı\obj\Debug\taksit yapımı.csproj.GenerateResource.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\taksit yapımı\taksit yapımı\obj\Debug\taksit yapımı.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\taksit yapımı\taksit yapımı\obj\Debug\taksit yapımı.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\taksit yapımı\taksit yapımı\obj\Debug\taksit yapımı.pdb

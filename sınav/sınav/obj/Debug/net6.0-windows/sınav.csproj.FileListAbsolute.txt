@@ -1,0 +1,16 @@
+C:\Users\pc\Desktop\c#\sınav\sınav\bin\Debug\net6.0-windows\sınav.exe
+C:\Users\pc\Desktop\c#\sınav\sınav\bin\Debug\net6.0-windows\sınav.deps.json
+C:\Users\pc\Desktop\c#\sınav\sınav\bin\Debug\net6.0-windows\sınav.runtimeconfig.json
+C:\Users\pc\Desktop\c#\sınav\sınav\bin\Debug\net6.0-windows\sınav.dll
+C:\Users\pc\Desktop\c#\sınav\sınav\bin\Debug\net6.0-windows\sınav.pdb
+C:\Users\pc\Desktop\c#\sınav\sınav\obj\Debug\net6.0-windows\sınav.Form1.resources
+C:\Users\pc\Desktop\c#\sınav\sınav\obj\Debug\net6.0-windows\sınav.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\c#\sınav\sınav\obj\Debug\net6.0-windows\sınav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\c#\sınav\sınav\obj\Debug\net6.0-windows\sınav.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\c#\sınav\sınav\obj\Debug\net6.0-windows\sınav.AssemblyInfo.cs
+C:\Users\pc\Desktop\c#\sınav\sınav\obj\Debug\net6.0-windows\sınav.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\c#\sınav\sınav\obj\Debug\net6.0-windows\sınav.dll
+C:\Users\pc\Desktop\c#\sınav\sınav\obj\Debug\net6.0-windows\refint\sınav.dll
+C:\Users\pc\Desktop\c#\sınav\sınav\obj\Debug\net6.0-windows\sınav.pdb
+C:\Users\pc\Desktop\c#\sınav\sınav\obj\Debug\net6.0-windows\sınav.genruntimeconfig.cache
+C:\Users\pc\Desktop\c#\sınav\sınav\obj\Debug\net6.0-windows\ref\sınav.dll

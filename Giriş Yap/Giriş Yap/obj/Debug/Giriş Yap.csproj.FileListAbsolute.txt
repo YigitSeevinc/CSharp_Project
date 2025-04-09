@@ -1,0 +1,81 @@
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Giriş Yap.exe.config
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Giriş Yap.exe
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Giriş Yap.pdb
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\obj\Debug\Giriş Yap.csproj.AssemblyReference.cache
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\obj\Debug\Giriş_Yap.AnaFrm.resources
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\obj\Debug\Giriş_Yap.Properties.Resources.resources
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\obj\Debug\Giriş Yap.csproj.GenerateResource.cache
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\obj\Debug\Giriş Yap.csproj.CoreCompileInputs.cache
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\obj\Debug\Giriş Yap.exe
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\obj\Debug\Giriş Yap.pdb
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\obj\Debug\Giriş_Yap.HesapOlusturFrm.resources
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Google.Protobuf.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\MySql.Data.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\MySqlConnector.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\System.Buffers.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\System.Collections.Immutable.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\System.IO.Pipelines.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\System.Memory.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\ZstdSharp.dll
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Google.Protobuf.pdb
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Google.Protobuf.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\MySql.Data.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\MySqlConnector.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\System.Buffers.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\System.Collections.Immutable.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\System.IO.Pipelines.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\System.Memory.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\YigitSevinc\Documents\VisualStudioProjelerim\Giriş Yap\Giriş Yap\obj\Debug\Giriş Yap.csproj.Up2Date

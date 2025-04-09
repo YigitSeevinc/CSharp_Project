@@ -1,0 +1,10 @@
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\resim seçip gösterme\resim seçip gösterme\bin\Debug\resim seçip gösterme.exe.config
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\resim seçip gösterme\resim seçip gösterme\bin\Debug\resim seçip gösterme.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\resim seçip gösterme\resim seçip gösterme\bin\Debug\resim seçip gösterme.pdb
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\resim seçip gösterme\resim seçip gösterme\obj\Debug\resim seçip gösterme.csproj.AssemblyReference.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\resim seçip gösterme\resim seçip gösterme\obj\Debug\resim_seçip_gösterme.Form1.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\resim seçip gösterme\resim seçip gösterme\obj\Debug\resim_seçip_gösterme.Properties.Resources.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\resim seçip gösterme\resim seçip gösterme\obj\Debug\resim seçip gösterme.csproj.GenerateResource.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\resim seçip gösterme\resim seçip gösterme\obj\Debug\resim seçip gösterme.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\resim seçip gösterme\resim seçip gösterme\obj\Debug\resim seçip gösterme.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\resim seçip gösterme\resim seçip gösterme\obj\Debug\resim seçip gösterme.pdb

@@ -1,0 +1,10 @@
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1,2,3,4\deneme 1,2,3,4\bin\Debug\deneme 1,2,3,4.exe.config
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1,2,3,4\deneme 1,2,3,4\bin\Debug\deneme 1,2,3,4.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1,2,3,4\deneme 1,2,3,4\bin\Debug\deneme 1,2,3,4.pdb
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1,2,3,4\deneme 1,2,3,4\obj\Debug\deneme 1,2,3,4.csproj.AssemblyReference.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1,2,3,4\deneme 1,2,3,4\obj\Debug\deneme_1_2_3_4.sifreturu.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1,2,3,4\deneme 1,2,3,4\obj\Debug\deneme_1_2_3_4.Properties.Resources.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1,2,3,4\deneme 1,2,3,4\obj\Debug\deneme 1,2,3,4.csproj.GenerateResource.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1,2,3,4\deneme 1,2,3,4\obj\Debug\deneme 1,2,3,4.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1,2,3,4\deneme 1,2,3,4\obj\Debug\deneme 1,2,3,4.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\deneme 1,2,3,4\deneme 1,2,3,4\obj\Debug\deneme 1,2,3,4.pdb

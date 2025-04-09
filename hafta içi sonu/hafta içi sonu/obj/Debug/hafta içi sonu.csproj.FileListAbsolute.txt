@@ -1,0 +1,10 @@
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\hafta içi sonu\hafta içi sonu\bin\Debug\hafta içi sonu.exe.config
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\hafta içi sonu\hafta içi sonu\bin\Debug\hafta içi sonu.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\hafta içi sonu\hafta içi sonu\bin\Debug\hafta içi sonu.pdb
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\hafta içi sonu\hafta içi sonu\obj\Debug\hafta içi sonu.csproj.AssemblyReference.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\hafta içi sonu\hafta içi sonu\obj\Debug\hafta_içi_sonu.Form1.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\hafta içi sonu\hafta içi sonu\obj\Debug\hafta_içi_sonu.Properties.Resources.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\hafta içi sonu\hafta içi sonu\obj\Debug\hafta içi sonu.csproj.GenerateResource.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\hafta içi sonu\hafta içi sonu\obj\Debug\hafta içi sonu.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\hafta içi sonu\hafta içi sonu\obj\Debug\hafta içi sonu.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\hafta içi sonu\hafta içi sonu\obj\Debug\hafta içi sonu.pdb

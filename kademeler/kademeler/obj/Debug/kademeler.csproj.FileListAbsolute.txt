@@ -1,0 +1,10 @@
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kademeler\kademeler\bin\Debug\kademeler.exe.config
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kademeler\kademeler\bin\Debug\kademeler.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kademeler\kademeler\bin\Debug\kademeler.pdb
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kademeler\kademeler\obj\Debug\kademeler.csproj.AssemblyReference.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kademeler\kademeler\obj\Debug\kademeler.Form1.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kademeler\kademeler\obj\Debug\kademeler.Properties.Resources.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kademeler\kademeler\obj\Debug\kademeler.csproj.GenerateResource.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kademeler\kademeler\obj\Debug\kademeler.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kademeler\kademeler\obj\Debug\kademeler.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\kademeler\kademeler\obj\Debug\kademeler.pdb

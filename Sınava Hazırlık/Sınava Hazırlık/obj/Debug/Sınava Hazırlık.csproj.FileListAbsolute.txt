@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\c#\sınava hazırlık\sınava hazırlık\bin\Debug\sınava hazırlık.exe.config
+C:\Users\pc\Desktop\c#\sınava hazırlık\sınava hazırlık\bin\Debug\sınava hazırlık.exe
+C:\Users\pc\Desktop\c#\sınava hazırlık\sınava hazırlık\bin\Debug\sınava hazırlık.pdb
+C:\Users\pc\Desktop\c#\sınava hazırlık\sınava hazırlık\obj\Debug\sınava hazırlık.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\c#\sınava hazırlık\sınava hazırlık\obj\Debug\sınava_hazırlık.Form1.resources
+C:\Users\pc\Desktop\c#\sınava hazırlık\sınava hazırlık\obj\Debug\sınava_hazırlık.Properties.Resources.resources
+C:\Users\pc\Desktop\c#\sınava hazırlık\sınava hazırlık\obj\Debug\sınava hazırlık.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\c#\sınava hazırlık\sınava hazırlık\obj\Debug\sınava hazırlık.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\c#\sınava hazırlık\sınava hazırlık\obj\Debug\sınava hazırlık.exe
+C:\Users\pc\Desktop\c#\sınava hazırlık\sınava hazırlık\obj\Debug\sınava hazırlık.pdb

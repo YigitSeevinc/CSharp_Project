@@ -1,0 +1,10 @@
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\donanım birimleri\donanım birimleri\bin\Debug\donanım birimleri.exe.config
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\donanım birimleri\donanım birimleri\bin\Debug\donanım birimleri.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\donanım birimleri\donanım birimleri\bin\Debug\donanım birimleri.pdb
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\donanım birimleri\donanım birimleri\obj\Debug\donanım birimleri.csproj.AssemblyReference.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\donanım birimleri\donanım birimleri\obj\Debug\donanım_birimleri.Form1.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\donanım birimleri\donanım birimleri\obj\Debug\donanım_birimleri.Properties.Resources.resources
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\donanım birimleri\donanım birimleri\obj\Debug\donanım birimleri.csproj.GenerateResource.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\donanım birimleri\donanım birimleri\obj\Debug\donanım birimleri.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\donanım birimleri\donanım birimleri\obj\Debug\donanım birimleri.exe
+C:\Users\Yiğit Sevinç\Desktop\c# projelerim\donanım birimleri\donanım birimleri\obj\Debug\donanım birimleri.pdb
